@@ -24,3 +24,9 @@ The page was given a title
 All images were given an alt description for accesibility 
 HTML now follows a se,antic structure
 CSS selectors and properties were consolidated
+
+# The following image demonstrates the web application's appearance:
+(./images/horiseon.png)
+
+# The following link takes to the deployed applicaton:
+https://ggggglo.github.io/challenge1-/ 
